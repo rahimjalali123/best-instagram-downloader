@@ -1,6 +1,6 @@
 from functions import *
 
-bot = telebot.TeleBot(bot_token)
+bot = telebot.TeleBot(7117583869:AAHzBIv5to_Y4eRiG7sI13V7FcA3QSbH6SA)
 
 @bot.message_handler(commands=['start'])
 def start_command_handler(message):
